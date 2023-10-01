@@ -1,0 +1,5 @@
+run_at_startup: false
+window_rules:
+  - match: "Global"
+    active_border_color: "#89B4FA"
+    inactive_border_color: "#CBA6F7"
